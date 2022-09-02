@@ -19,3 +19,9 @@ button[type="submit"] {
 .btn-success:focus {
   box-shadow: 1px 1px 4px #0c1639 !important;
 }
+
+.carousel-control-prev,
+.carousel-control-next {
+  background-color: transparent;
+  border: none;
+}
