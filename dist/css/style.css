@@ -1,0 +1,21 @@
+form {
+  max-width: 400px;
+}
+
+label {
+  color: #0c1639;
+}
+
+input,
+textarea {
+  background-color: white !important;
+  box-shadow: 1px 1px 4px #0c1639 !important;
+}
+
+button[type="submit"] {
+  border-radius: 100px;
+}
+
+.btn-success:focus {
+  box-shadow: 1px 1px 4px #0c1639 !important;
+}
