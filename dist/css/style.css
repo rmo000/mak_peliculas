@@ -25,3 +25,7 @@ button[type="submit"] {
   background-color: transparent;
   border: none;
 }
+
+p {
+  text-align: justify;
+}
