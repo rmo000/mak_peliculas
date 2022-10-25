@@ -33,7 +33,7 @@ $mail->Port = 587;
 //Recipients
 $mail->From = 'makpeliculas@gmail.com';
 $mail->FromName = 'contato';
-$mail->addAddress('rubensmonteiro1@gmail.com', 'Rubens');     //Add a recipient
+$mail->addAddress('makpeliculas@gmail.com', 'Formulário do site');     //Add a recipient
 $mail->addReplyTo($email);
 
 $Body = " 
