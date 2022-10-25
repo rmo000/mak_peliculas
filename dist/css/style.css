@@ -29,3 +29,7 @@ button[type="submit"] {
 p {
   text-align: justify;
 }
+
+.carousel-item img{
+  max-width: 525px
+}
